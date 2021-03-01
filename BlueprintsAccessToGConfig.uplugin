@@ -1,0 +1,36 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Blueprints Access To GConfig",
+	"Description": "Exposing common GConfig functionality through to Blueprints. Icon for Blueprints Access To GConfig was sourced from icons8.com",
+	"Category": "Other",
+	"CreatedBy": "Trifolium Digital Limited",
+	"CreatedByURL": "http://www.trifoliumdigital.co.uk",
+	"DocsURL": "",
+	"EngineVersion": "4.26.0",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BlueprintsAccessToGConfig",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"WhitelistPlatforms": [
+				"Android",
+				"IOS",
+				"Mac",
+				"Win32",
+				"Win64",
+				"Linux",
+				"Switch",
+				"PS4",
+				"XboxOne"
+			]
+		}
+	]
+}
